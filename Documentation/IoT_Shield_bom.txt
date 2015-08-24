@@ -1,0 +1,44 @@
+Stückliste exportiert aus /Users/joern/Documents/eagle/IoT_Shield/IoT_Shield.sch am 24.08.15 13:06
+
+Part    Value          Device                Package          Description                                       MF MPN     OC_FARNELL OC_NEWARK
+7SEG    HD-F101        HD-F101               HDSP-E           LED DISPLAY                                                  unknown    unknown  
+C1      100nF          C-EUC0805             C0805            CAPACITOR, European symbol                                                       
+C2      10uF           CPOL-EUA/3216-18R     A/3216-18R       POLARIZED CAPACITOR, European symbol                                             
+C3      100nF          C-EUC0805             C0805            CAPACITOR, European symbol                                                       
+C4      100nF          C-EUC0805             C0805            CAPACITOR, European symbol                                                       
+ESP8266 ESP01          ESP01                 ESP01            ESP8266 Wifi module 01                                       unknown             
+IC1     LD1117S33TR    REG1117               SOT223           800mA and 1A Low Dropout (LDO) Positive Regulator    REG1117 1097566    14P6981  
+IC2     LM35DZ         LM35CZ                TO92             Single-Supply Centigrade Temperature Sensor                                      
+J1      WLAN_FLASH     JP1E                  JP1              JUMPER                                                                           
+LDR     VT90N2         R-EU_0204/2V          0204V            RESISTOR, European symbol                                                        
+LED1    Red            LED5MM                LED5MM           LED                                                                              
+LED2    Yellow         LED5MM                LED5MM           LED                                                                              
+LED3    Green          LED5MM                LED5MM           LED                                                                              
+R1      1K             R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R2      2K             R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R3      10K            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R4      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R5      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R6      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R7      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R8      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R9      220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R10     220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R11     10K            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R12     10K            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R13     220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R14     10K            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R15     220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R16     220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R17     220            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R18     470K           R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R19     0-2k           R-TRIMM4G/J           RTRIM4G/J        Trimm resistor                                                                   
+R21     10K            R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R22     1K             R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+R23     1K             R-EU_R0805            R0805            RESISTOR, European symbol                                                        
+RESET   TAC_SWITCHSMD  DTSM-6                DTSM-6                                                                                            
+S1      TAC_SWITCHSMD  DTSM-6                DTSM-6                                                                                            
+S2      TAC_SWITCHSMD  DTSM-6                DTSM-6                                                                                            
+S3      UART_SEL       JS202011SCQN          SMD                                                                                               
+SG1     BUZZER         BUZZERPTH             BUZZER-12MM      Buzzer 12mm                                                                      
+U1      ARDUINO_SHIELD ARDUINO_SHIELDNO_SILK DUEMILANOVE_VIAS Arduino shield footprint                                     unknown             
